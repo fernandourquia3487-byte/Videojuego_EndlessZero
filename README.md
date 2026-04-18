@@ -1,5 +1,5 @@
 # Documentación del Proyecto Videojuego
-
+Hecho por David Fernando López Urquia 20231003223
 Este proyecto es un videojuego 2D basado en **Java** y **JavaFX**. Está organizado en dos paquetes principales:
 
 - `com.unah`: clases del juego, enemigos, proyectiles, efectos y la aplicación principal.
