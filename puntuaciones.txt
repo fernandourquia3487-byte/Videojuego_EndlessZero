@@ -1,0 +1,10 @@
+Fer,90000
+x,890
+Jugador,880
+Jugador,720
+Jugador,500
+Fernando,410
+x,390
+Fernando,390
+Jugador,370
+x,340
